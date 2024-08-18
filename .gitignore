@@ -1,0 +1,7 @@
+CheatCheker.spec
+icon.ico
+Build.bat
+dist/
+build/
+modules/_pycache_/
+utils/_pycache_/
