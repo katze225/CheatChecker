@@ -10,7 +10,7 @@ logo = '''
 █▀▀ █░█ █▀▀ ▄▀█ ▀█▀ █▀▀ █░█ █▀▀ █▄▀ █▀▀ █▀█
 █▄▄ █▀█ ██▄ █▀█ ░█░ █▄▄ █▀█ ██▄ █░█ ██▄ █▀▄
 
-        Build v0.7 | mc.powerbox.wtf
+       Build v0.7 | github.com/katze225
 '''
     
 def main():
