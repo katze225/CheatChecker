@@ -5,12 +5,12 @@ import modules.files as files
 import time
 import os
 
-build = "v0.7"
+build = "v0.1"
 logo = '''
 █▀▀ █░█ █▀▀ ▄▀█ ▀█▀ █▀▀ █░█ █▀▀ █▄▀ █▀▀ █▀█
 █▄▄ █▀█ ██▄ █▀█ ░█░ █▄▄ █▀█ ██▄ █░█ ██▄ █▀▄
 
-       Build v0.7 | github.com/katze225
+       Build v0.1 | github.com/katze225
 '''
     
 def main():
