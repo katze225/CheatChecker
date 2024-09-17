@@ -3,7 +3,7 @@
 
 - Easy to use
 - Easy to understand
-- High performance.
+- High performance
 
 ### Usage
 `start cheatchecker.exe`
