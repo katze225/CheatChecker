@@ -6,7 +6,7 @@
 - High performance
 
 ### Usage
-`start cheatchecker.exe`
+`Run cheatchecker.exe`
 
 
 ##### :ghost: [by Katze](https://github.com/katze225 "by Katze")
